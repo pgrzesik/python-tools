@@ -1,0 +1,6 @@
+docker-compose==1.16.1
+pgcli==1.8.1
+mycli==1.13.1
+httpie==0.9.9
+awscli==1.11.170
+awsebcli==3.12.0
