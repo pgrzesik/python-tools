@@ -9,3 +9,4 @@ cookiecutter==1.6.0
 ipython==6.2.1
 ipython-genutils==0.2.0
 isort==4.2.15
+tmuxp==1.3.4
