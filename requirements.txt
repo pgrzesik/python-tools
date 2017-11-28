@@ -13,3 +13,4 @@ pylint==1.7.4
 flake8==3.5.0
 autoflake==1.0
 jupyter==1.0.0
+boto3==1.4.8
