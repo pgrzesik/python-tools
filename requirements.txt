@@ -16,4 +16,4 @@ jupyter==1.0.0
 boto3==1.4.8
 cookiecutter==1.6.0
 aws-shell==0.2.0
-azure-cli=2.0.31
+azure-cli==2.0.31
